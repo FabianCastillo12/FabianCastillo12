@@ -6,11 +6,14 @@ Acerca de mí
 
 Educación
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica.
+
 Tecnologías y Habilidades
+
 💻 Lenguajes de Programación: Python, C#.
 🌐 Desarrollo Web: HTML, CSS, JavaScript.
 🛢️ Bases de Datos: PostgreSQL.
 🔧 Herramientas y Frameworks: Git, Visual Studio Code.
+
 Proyectos y Aprendizaje
 Durante mi tiempo en la universidad, he estado trabajando en diversos proyectos relacionados con mis estudios y también he estado explorando diferentes tecnologías y frameworks. Estoy entusiasmado/a por seguir aprendiendo y aplicando mis conocimientos en proyectos emocionantes.
 
