@@ -21,9 +21,6 @@ Proyectos y Aprendizaje
 
 Durante mi tiempo en la universidad, he estado trabajando en diversos proyectos relacionados con mis estudios y también he estado explorando diferentes tecnologías y frameworks. Estoy entusiasmado/a por seguir aprendiendo y aplicando mis conocimientos en proyectos emocionantes.
 
-Colaboración y Contacto
-Me encanta colaborar con otros desarrolladores y aprender de sus experiencias. Si estás interesado/a en colaborar en proyectos o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto conmigo.
-
 Contacto
 
 Puedes encontrarme en las siguientes plataformas en línea:
