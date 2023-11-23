@@ -19,7 +19,7 @@ Tecnologías y Habilidades
 
 Proyectos y Aprendizaje
 
-Durante mi tiempo en la universidad, he estado trabajando en diversos proyectos relacionados con mis estudios y también he estado explorando diferentes tecnologías y frameworks. Estoy entusiasmado/a por seguir aprendiendo y aplicando mis conocimientos en proyectos emocionantes.
+Durante mi tiempo en la universidad, he estado trabajando en diversos proyectos relacionados con mis estudios y también he estado explorando diferentes tecnologías y frameworks. Estoy entusiasmado por seguir aprendiendo y aplicando mis conocimientos en proyectos emocionantes.
 
 Contacto
 
