@@ -25,7 +25,7 @@ Contacto
 
 Puedes encontrarme en las siguientes plataformas en línea:
 
-LinkedIn: https://www.linkedin.com/in/fabian-castillo-vega-7b9333267/
+LinkedIn: https://www.linkedin.com/in/fabian-castillo-vega-a84ab4307/
 
 Correo Electrónico: fcv4521@gmail.com
 
