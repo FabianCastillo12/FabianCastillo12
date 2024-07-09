@@ -13,8 +13,6 @@ Tecnologías y Habilidades
 
 🌐 Desarrollo Web: HTML, CSS, JavaScript.
 
-🛢️ Bases de Datos: PostgreSQL.
-
 🔧 Herramientas y Frameworks: Git, Visual Studio Code.
 
 Proyectos y Aprendizaje
