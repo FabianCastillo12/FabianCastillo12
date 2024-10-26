@@ -9,9 +9,9 @@ Educación
 
 Tecnologías y Habilidades
 
-💻 Lenguajes de Programación: Python, C#.
+💻 Lenguajes de Programación: Python, C#, Java, Js
 
-🌐 Desarrollo Web: HTML, CSS, JavaScript.
+🌐 Tecnologías: React.js, Express.js, Bootstrap, Tailwind CSS, Node.js, Git, Github, PostgreSQL, MySQL, Numpy, Pandas, Seaborn, Figma, RESTful APIs, Azure
 
 🔧 Herramientas y Frameworks: Git, Visual Studio Code.
 
