@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! 👋
 Acerca de mí
-¡Hola! Soy Fabian Castillo, estudiante de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica. Actualmente, me encuentro en el 9no ciclo de mi carrera y estoy emocionado por aprender y crecer en el mundo de la tecnología y la programación.
+¡Hola! Soy Fabian Castillo, egresado de la carrera de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica. 
 
 Educación
 🎓 Estudiante de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica.
@@ -11,7 +11,7 @@ Tecnologías y Habilidades
 
 💻 Lenguajes de Programación: Python, C#, Java, Js
 
-🌐 Tecnologías: React.js, Express.js, Bootstrap, Tailwind CSS, Node.js, Git, Github, PostgreSQL, MySQL, Numpy, Pandas, Seaborn, Figma, RESTful APIs, Azure
+🌐 Tecnologías: React.js, Express.js, NestJS, Tailwind CSS, Node.js, Git, Github, PostgreSQL, MySQL, Numpy, Pandas, Seaborn, Figma, RESTful APIs, Azure
 
 🔧 Herramientas y Frameworks: Git, Visual Studio Code.
 
