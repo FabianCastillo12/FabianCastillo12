@@ -5,7 +5,7 @@ Acerca de mí
 ¡Hola! Soy Fabian Castillo, egresado de la carrera de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica. 
 
 Educación
-🎓 Estudiante de Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica.
+🎓 Ingeniería de Sistemas en la Universidad San Luis Gonzaga de Ica.
 
 Tecnologías y Habilidades
 
